@@ -1,8 +1,6 @@
 #include <iostream>
 
 
-
 int main() {
-    std::cout << "Haadi\n";
-    std::cout << "Saqib\n";
+    std::cout << "Haadi" << " Saqib\n";
 }

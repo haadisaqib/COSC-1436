@@ -16,5 +16,15 @@ int main() {
     char letter = 'a';
     std::cout << "letter = " << letter << '\n';
 
+    //const example
+    const int num3 = 10;
+    std::cout << "num3 = " << num3 << '\n';
+
+    //complex example
+    int num4 = 10;
+    int num5 = 20;
+    int num6 = num4 + num5;
+    std::cout << "num6 = " << num6 << '\n';
+    return 0;
 }
 
